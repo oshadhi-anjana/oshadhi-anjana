@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21174308&label=Profile%20views&color=0e75b6&style=flat" alt="it21174308" /> </p>
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specializing Software Enginnering**
+- 🌱 I have completed my **BSc (Hons) Degree in Information Technology, specializing in Software Engineering**.
 
 - 💬 Ask me about **react, php, mern stack, java, kotlin**
 
